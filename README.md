@@ -31,6 +31,7 @@ dogs-vs-cats
 Train on my dataset:
  - Run all cell with **T4 (or GPU support CUDA)** and mount your google drive in this [train colab](https://colab.research.google.com/drive/1XeQ71whY1xNBBnNEHNeSoAHf7OUs_ajt?authuser=0#scrollTo=qhENu7GAoywC)
  - Pretrained model will be save in your drive with path /GO/saved_model
+   
 Train on your dataset (optional):
  - ```ZIP``` your dataset (following above structure) and upload it to ```Google drive```, set its share with everyone and get its ID.
  - Change ID in download dataset cell
